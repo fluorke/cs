@@ -13,4 +13,4 @@ const Sentinel_Linear_Search = (A,n,x) => {
   return "not-found";
 }
 
-//console.log(Sentine_lLinear_Search(a, 8, 10));
+//console.log(Sentine_Linear_Search(a, 8, 10));
