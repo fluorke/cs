@@ -1,3 +1,3 @@
 # computer science general
 
-## - [] Thomas H. Corman, The Algorithms. Introduction 
+## - [ ] Thomas H. Corman, The Algorithms. Introduction 
