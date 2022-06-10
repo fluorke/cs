@@ -1,3 +1,5 @@
+//time complexity equal O(n)
+
 let a = [1,2,3,4,5,6,7,8];
 
 const Sentinel_Linear_Search = (A,n,x) => {
